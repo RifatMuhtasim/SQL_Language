@@ -1,4 +1,5 @@
 # SQL Language
+- Learn SQL: https://www.w3schools.com/sql/default.asp
 
 ## 1.01.Run_SQL 
 - Run SQL with the help of pandas
