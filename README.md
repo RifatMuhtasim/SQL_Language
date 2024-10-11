@@ -51,3 +51,8 @@
 - SQL Case Expression
 - SQL NULL Function
 - SQL Comments
+
+## 1.10.SQL_Dates_Views_DataType
+- SQL Dates
+- SQL Create Views
+- SQL Dropping view
